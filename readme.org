@@ -1,0 +1,4 @@
+* python wikidata query
+this code queries wikidata.
+at the moment in the most funtimental way,
+meaning it can only query one property with one entity.
